@@ -42,15 +42,3 @@
 .div{
     padding: 10px;
 }
-.boton{
-    font-size: 22px;
-}
-#imagen{
-    position: relative;
-    left: 30px;
-}
-#lista{
-    background: pink;
-    color: black;
-    border: 3px solid rgb(253, 127, 148)
-}
